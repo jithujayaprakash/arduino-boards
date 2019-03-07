@@ -17,7 +17,7 @@
           "help": {
             "online": "https://portal.mcci.com"
           },
-          "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/packages/Arduino_Core_SAMD-1.0.0.zip",
+          "url": "https://github.com/mcci-catena/arduino-boards/edit/master/BoardManagerFiles/packages/Arduino_Core_SAMD-1.0.0.zip",
           "archiveFileName": "Arduino_Core_SAMD-1.0.0.zip",
           "checksum": "SHA-256:930729ae67697a7226b934df1402d32e7473327e73d4f64d64e076342f7cadf4",
           "size": "18102332",
